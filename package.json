@@ -34,7 +34,7 @@
     "check:lint": "eslint .",
     "dev": "next dev",
     "fix": "konk run s -L -n'fix:*'",
-    "fix:format": "prettier --write . --loglevel warn",
+    "fix:format": "prettier --write . --list-different",
     "lint": "next lint",
     "start": "next start"
   }
