@@ -1,5 +1,6 @@
 {
   "name": "template-nextjs",
+  "license": "MIT",
   "version": "0.1.0",
   "dependencies": {
     "next": "^13.3.1",
